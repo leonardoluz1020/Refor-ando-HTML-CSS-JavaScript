@@ -2,7 +2,7 @@
 
 
 
-> Curso com o professor do Curso em video Guanabara
+> Curso com o professor Guanabara do Curso em video.
 
 ## Curso basico de reforço com basico das tags e css ##
 
